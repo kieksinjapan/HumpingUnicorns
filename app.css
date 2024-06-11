@@ -470,6 +470,39 @@ header{
     font-weight: 100;
   }
 
+ /*Hump Page*/
+
+  .container-navy {
+    position: relative;
+    background: #333E6B;
+  }
+
+  .hump-video {
+    margin: auto;
+    width: 65%;
+    padding: 10px;
+  }
+/*
+  .button {
+    position: absolute;
+    top: 44%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 5px 15px;
+    background-color: rgba(255, 255, 255, 0.6);
+    color: #333E6B;
+    border: #c5f1ff 4px solid;
+    border-radius: 40px;
+    font-size: 20px;
+    font-family: "Patrick Hand", sans-serif;
+    cursor: pointer;
+  }
+
+  .button:hover {
+    background-color: rgba(255, 255, 255, 1);
+} */
+
+
   @media only screen and (max-width:600px) {
     
     .header-main-logo {
