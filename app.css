@@ -401,6 +401,21 @@ header{
     padding-right: 100px;
 }
 
+.button2 {
+    background-color: #c5f1ff;
+    color: black;
+    border: black 2px solid;
+    border-radius: 40px;
+    font-size: 20px;
+    font-family: "Patrick Hand", sans-serif;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.button2:hover {
+    background-color: rgb(255, 192, 237);
+} 
+
 
 
 .footer {
@@ -482,16 +497,16 @@ header{
     width: 65%;
     padding: 10px;
   }
-/*
+
   .button {
     position: absolute;
     top: 44%;
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 5px 15px;
-    background-color: rgba(255, 255, 255, 0.6);
-    color: #333E6B;
-    border: #c5f1ff 4px solid;
+    background-color: #debffc;
+    color: white;
+    border: #ffffff 4px solid;
     border-radius: 40px;
     font-size: 20px;
     font-family: "Patrick Hand", sans-serif;
@@ -499,8 +514,8 @@ header{
   }
 
   .button:hover {
-    background-color: rgba(255, 255, 255, 1);
-} */
+    background-color: rgb(255, 192, 237);
+} 
 
 
   @media only screen and (max-width:600px) {
